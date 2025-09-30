@@ -5,7 +5,8 @@
 
 <p align="center">
   <!-- Badges dynamiques -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TON_USERNAME/TON_PROJET?style=for-the-badge" />
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/TON_USERNAME/TON_PROJET?style=for-the-badge" />
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/TON_USERNAME/TON_PROJET?style=for-the-badge" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/ilyasfaqir/TON_PROJET?style=for-the-badge" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ilyasfaqir/TON_PROJET?style=for-the-badge" />
+  <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-25-blue?style=for-the-badge" />
+  <img alt="Total Commits" src="https://img.shields.io/badge/Commits-1200-success?style=for-the-badge" />
 </p>
