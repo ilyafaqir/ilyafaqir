@@ -17,7 +17,7 @@
 ### 📫 Me contacter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ilyas-faqir)  
-- 📧 ilyasfaqir@example.com
+- 📧  ilyas.faqir@edu.sorbonne-paris-nord.fr
 
 ---
 
